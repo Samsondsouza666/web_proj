@@ -1,0 +1,22 @@
+h1
+{
+  color:goldenrod;
+  text-align: center;
+}
+#message-el
+{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+p
+{
+    text-align: center;
+    color: white;
+}
+body
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("images/table.png");
+    font-weight: bold;
+}
